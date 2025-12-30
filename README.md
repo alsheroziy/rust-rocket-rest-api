@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Shop Rocket API (Senior Structure)
+# Shop Rocket API 
 
 Bu loyiha **Rust** dasturlash tili va **Rocket** freymvorki yordamida yozilgan zamonaviy REST API hisoblanadi. Loyiha "Clean Architecture" tamoyillari asosida tuzilgan va barcha "Senior" darajadagi talablarga javob beradi.
 
